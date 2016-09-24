@@ -14,7 +14,7 @@ public class StephenHawking {
 		for (int i = 0; i < 10; i++) {
 			
 		
-		String sentence = JOptionPane.showInputDialog(null,"Please, tell me your name");
+		String sentence = JOptionPane.showInputDialog(null,"What do you want me to say?");
 	// 3. call the speak method below and send it the sentence
 		speak(sentence);
 	}
